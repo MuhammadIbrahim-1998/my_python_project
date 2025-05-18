@@ -4,7 +4,7 @@ print(x)
 y= input("the y is = ")
 print(y)
 
-if x>y : 
+if x > y : 
     print ("x is greater than y ")
 
 elif x < y :
