@@ -4,3 +4,4 @@ print("age:" , b)
 print("city:" , c)
 print("gender:" , d)
 
+
